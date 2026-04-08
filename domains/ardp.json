@@ -1,9 +1,10 @@
 {
   "owner": {
+    "username": "0xsharil",
     "repo": "https://github.com/0xsharil/ardp",
-    "email": "asahari@users.noreply.github.com"
+    "email": "artificialardiprotocol@gmail.com"
   },
   "records": {
-    "CNAME": "3cecc798-7bc7-487f-bb9e-6e2c85b085d3.cfargotunnel.com"
+    "CNAME": "ardp-landing-page.vercel.app"
   }
 }
